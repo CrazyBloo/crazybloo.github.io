@@ -1,13 +1,13 @@
-Package: com.crazybloo.controlpanel
-Version: 0.0.1
+Package: com.crazybloo.nojapcamerashutter
+Version: 0.1a
 Architecture: iphoneos-arm
-Maintainer: CrazyBloo <email@gmail.com>
-Filename: /ControlPanel.deb
-Size: 19682
-MD5sum: 52556e1a80a2d1a766fc3d6a6d7103f
-SHA1: 0541e4e7926195110a9752cdf75bcbb8bc37b11e
-SHA256: 2279fe1999afecf018c460061e46ec7ab5fe2c11b0e8182b3c881aad5f2c36ab
+Maintainer: CrazyBloo <hellnogaming158@gmail.com>
+Filename: /nojapshutter.deb
+Size: 12288
+MD5sum: 06ea673cdbf78c3e78ed137b073a7434
+SHA1: 9ba157630f62af513ae79337b318545bb48f6e63
+SHA256: f8481825a9cb6d62a1f315efc9120fb0a6415626388462eea4985a0fe714b0b4
 Section: Tweaks
-Description: A test tweak for my repo
-Author: CrazyBloo <email@gmail.com>
-Name: ControlPanel 9
+Description: Disable the required camera shutter
+Author: CrazyBloo <hellnogaming158@gmail.com>
+Name: NoJapaneseCameraShutter
