@@ -1,12 +1,12 @@
 Package: com.crazybloo.nojapcamerashutter
-Version: 0.1a
+Version: 0.2a
 Architecture: iphoneos-arm
 Maintainer: CrazyBloo <hellnogaming158@gmail.com>
 Filename: /nojapshutter.deb
-Size: 11452
-MD5sum: 06ea673cdbf78c3e78ed137b073a7434
-SHA1: 9ba157630f62af513ae79337b318545bb48f6e63
-SHA256: f8481825a9cb6d62a1f315efc9120fb0a6415626388462eea4985a0fe714b0b4
+Size: 11478
+MD5sum: 90805219917429c97ee3945f6b9977f8
+SHA1: 3a1b13a60db6e812a345888806d853c99714e672
+SHA256: e7998d79845105275750582ff0e03709c572cbf11311a55ddd746842fe7e7eec
 Section: Tweaks
 Description: Disable the required camera shutter
 Author: CrazyBloo <hellnogaming158@gmail.com>
