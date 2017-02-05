@@ -1,13 +1,13 @@
-Package: com.crazybloo.nojapcamerashutter
-Version: 0.1b
+Package: com.crazybloo.amijailed
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: CrazyBloo <hellnogaming158@gmail.com>
-Filename: /nojapshutter.deb
-Size: 19354
-MD5sum: e738b4245e5ca52d640eff286f1695a1
+Filename: /amijailed.deb
+Size: 2268
+MD5sum: 4a8d82dbef0b9ee93549a8e8fed1df2e
 SHA1: c7a2304ed0fbcb90870e6d8f539b9659518b8842
-SHA256: 97fd05d3896382528050453d4bf1685379c2c811780b38ac69c64e5f34b25183
+SHA256: bead408ffba6a9584c51f020dc2170a7865725585ee5bfc7a4f639fc3f200bd4
 Section: Tweaks
-Description: Disable the required camera shutter
+Description: Alerts you when you are jailbroken.
 Author: CrazyBloo <hellnogaming158@gmail.com>
-Name: NoJapaneseCameraShutter
+Name: Am I Jailed?
