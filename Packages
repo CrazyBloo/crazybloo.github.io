@@ -1,13 +1,13 @@
-Package: com.crazybloo.amijailed
+Package: com.crazybloo.controlpanel10
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: CrazyBloo <hellnogaming158@gmail.com>
-Filename: /amijailed.deb
-Size: 2268
-MD5sum: 4a8d82dbef0b9ee93549a8e8fed1df2e
-SHA1: c7a2304ed0fbcb90870e6d8f539b9659518b8842
-SHA256: bead408ffba6a9584c51f020dc2170a7865725585ee5bfc7a4f639fc3f200bd4
+Filename: /controlpanel10.deb
+Size: 64450
+MD5sum: 173ee1a22a0ad1d3ca8dea39d8124693
+SHA1: 1d10c19351b9fbd753b4b4c7a103446f34dd8541
+SHA256: a117c1cf27a6c1e0e1252975acdecbaa52ec9d7249f93d3a7f836fc277963639
 Section: Tweaks
-Description: Alerts you when you are jailbroken.
+Description: Regain control of your device
 Author: CrazyBloo <hellnogaming158@gmail.com>
-Name: Am I Jailed?
+Name: ControlPanel 10
