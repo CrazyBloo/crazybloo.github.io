@@ -1,13 +1,28 @@
-Package: com.crazybloo.controlpanel10
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: CrazyBloo <hellnogaming158@gmail.com>
-Filename: /controlpanel10.deb
-Size: 64450
-MD5sum: 173ee1a22a0ad1d3ca8dea39d8124693
-SHA1: 1d10c19351b9fbd753b4b4c7a103446f34dd8541
-SHA256: a117c1cf27a6c1e0e1252975acdecbaa52ec9d7249f93d3a7f836fc277963639
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
 Section: Tweaks
-Description: Regain control of your device
-Author: CrazyBloo <hellnogaming158@gmail.com>
-Name: ControlPanel 10
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
