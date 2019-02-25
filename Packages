@@ -1,16 +1,16 @@
 Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Version: 0.1a
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: CrazyBloo <CrazyBloo@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://crazybloo.github.io/depictions/?p=com.supermamon.newpackage
+Description: Modern Bytafont Alternative
+Name: Fontix (Disabled!)
+Author: CrazyBloo <crazybloogamimg@gmail.com>
+Depiction: https://crazybloo.github.io/depictions/?p=com.crazybloo.fontix
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
